@@ -1,10 +1,11 @@
 fastapi
 uvicorn
+python-multipart
 tensorflow-cpu
 tensorflow-hub
 librosa
 numpy
-pandas
 scikit-learn
 soundfile
+pandas
 joblib
